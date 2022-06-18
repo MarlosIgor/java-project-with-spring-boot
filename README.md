@@ -12,7 +12,7 @@
 ## Features
 
  * Adicionar (nome do cliente e cep)
- * Listar do Endereços, Nomes e ID
+ * Listar do Endereço, Nome e ID
  * Buscar por ID
  * Remover endereço por ID
 
