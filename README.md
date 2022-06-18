@@ -19,7 +19,7 @@
  ## Como utilizar
 
 
-### Adicionando nome do clientes com cep na base de dados
+### Adicionando nome do cliente com cep na base de dados
 
 **POST** `http://127.0.0.1:8080/clientes`
 
