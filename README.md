@@ -124,5 +124,6 @@
 
 **DELETE** `http://127.0.0.1:8080/swagger-ui/index.html#/cliente-rest-controller/deletar`
 
-![image-20220618150630541](C:\Users\Igor\AppData\Roaming\Typora\typora-user-images\image-20220618150630541.png)
+![image](https://user-images.githubusercontent.com/18476294/174451990-0f099c53-9b6f-4836-9924-9b3586a880f3.png)
+
 
